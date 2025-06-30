@@ -1,0 +1,12 @@
+{
+  "name": "magicmirror-server",
+  "version": "1.0.0",
+  "description": "MagicMirror server-only setup for Render",
+  "main": "serveronly.js",
+  "scripts": {
+    "start": "node serveronly.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
